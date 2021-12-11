@@ -13,10 +13,7 @@ def try_me(texto1, texto2):
     palabra1 = "".join(palabra1)
     palabra2 = "".join(palabra2)
     # Y finalmente comprobar si son iguales
-    return texto1 == texto2
-
-
-
+    return palabra1 == palabra2
 
 if __name__ == "__main__":
     #Cadenas de prueba
