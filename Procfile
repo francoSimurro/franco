@@ -1,1 +1,1 @@
-web: pip install . -U && franco-run
+web: pip install . -U && francopackage-run
